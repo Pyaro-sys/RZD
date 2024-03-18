@@ -217,6 +217,7 @@ body {
  }
  .menu__burger li a{
   width: 100%;
+  display: block;
  }
  .menu__burger li:hover{
   color: red;
