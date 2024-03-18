@@ -215,7 +215,9 @@ body {
   position: relative;
   transition: .3s ease;
  }
-
+ .menu__burger li a{
+  width: 100%;
+ }
  .menu__burger li:hover{
   color: red;
  }
